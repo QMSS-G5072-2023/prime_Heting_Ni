@@ -1,6 +1,6 @@
 # prime_hn2401
 
-A package for doing great things!
+A package for MDS
 
 ## Installation
 
