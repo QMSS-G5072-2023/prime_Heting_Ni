@@ -1,0 +1,22 @@
+:py:mod:`prime_hn2401`
+======================
+
+.. py:module:: prime_hn2401
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   prime_hn2401/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+
+   
+
